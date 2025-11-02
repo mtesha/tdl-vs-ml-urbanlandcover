@@ -72,7 +72,7 @@ M. Tabasum, T. Tasnim, M.E. Islam, A.Z.S.B. Habib,
 ---
 
 ## License
-MIT License — free to use, modify, and distribute with attribution.  
+MIT License - free to use, modify, and distribute with attribution.  
 Include a separate `LICENSE` file if you plan to share the repository publicly.
 
 ---
