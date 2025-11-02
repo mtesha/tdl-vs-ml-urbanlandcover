@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ```
 
 > Minimal `requirements.txt`: numpy, pandas, scikit-learn, matplotlib, scipy, jupyter  
-> (Optionally add xgboost, lightgbm, torch if used.)
+> (Optionally add xgboost, lightgbm, catboost, torch if used.)
 
 ---
 
