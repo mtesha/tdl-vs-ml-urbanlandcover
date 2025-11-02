@@ -11,7 +11,7 @@
 [![Cite Us](https://img.shields.io/badge/Cite-See%20BibTeX%20below-6c757d)](#reference)
 ![Status: Reproducible](https://img.shields.io/badge/Status-Reproducible-success)
 
-A concise, reproducible notebook comparing **tabular deep learning** with **classical ML** on an **urban land cover** dataset. Outputs are saved in the `outputs/` directory.
+A concise, reproducible notebook comparing **tabular deep learning** with **classical ML** on an **urban land cover** dataset.
 
 ---
 
@@ -42,9 +42,9 @@ Run the notebook end-to-end to reproduce results and generate figures.
 mkdir -p data/raw data/processed outputs/figures notebooks
 
 # Launch Jupyter and open the notebook
-jupyter lab notebooks/TabDL_vs_ClassicalML_Urban_Land_Cover_Classification.ipynb
+jupyter lab notebooks/Urban Land Cover Classification.ipynb
 # or
-jupyter notebook notebooks/TabDL_vs_ClassicalML_Urban_Land_Cover_Classification.ipynb
+jupyter notebook notebooks/Urban Land Cover Classification.ipynb
 ```
 
 Expected outputs:
@@ -56,14 +56,14 @@ Expected outputs:
 ## Reference
 M. Tabasum, T. Tasnim, M.E. Islam, A.Z.S.B. Habib,  
 **“Tabular Deep Learning vs Classical Machine Learning for Urban Land Cover Classification,”**  
-*NeurIPS 2025 Workshop MusIML*. (Accepted)
+*NeurIPS 2025 The 5th Muslims in ML (MusIML) Workshop*. (Accepted)
 
 **BibTeX**
 ```bibtex
 @inproceedings{tabasum2025tabdlulc,
   title     = {Tabular Deep Learning vs Classical Machine Learning for Urban Land Cover Classification},
   author    = {Tabasum, Muntasir and Tasnim, Tanpia and Islam, Md. Ekramul and Habib, Al Zadid Sultan Bin},
-  booktitle = {NeurIPS 2025 Workshop on Muslims in Machine Learning (MusIML)},
+  booktitle = {NeurIPS 2025 The 5th Muslims in ML (MusIML) Workshop},
   year      = {2025},
   note      = {Workshop paper}
 }
